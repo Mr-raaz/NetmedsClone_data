@@ -1,0 +1,331 @@
+{
+    "Limited_time_deals":[
+        {
+            "id" : 1,
+            "url_one":"https://www.netmeds.com/images/product-v1/600x600/362506/scalpe_plus_anti_dandruff_shampoo_75_ml_0_1.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/600x600/362506/scalpe_plus_anti_dandruff_shampoo_75_ml_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/600x600/362506/scalpe_plus_anti_dandruff_shampoo_75_ml_2_0.jpg",
+            "prod_name" : "Scalpe Plus Anti Dandruff Shampoo 75 ml",
+            "mrp" : 280.00,
+            "best_price" : 224.12,
+            "mkt" : "Glenmark Pharmaceuticals Ltd",
+            "discount" : "UPTO 20% off",
+            "catogery_1" : "Hair",
+            "category_2": "Hair Care",
+            "description" : "Scalpe Plus is an Expert Anti-Dandruff Shampoo with a proven track record in the treatment of dandruff related issues. It is based on the ketoconazole ZPTO formulation which is renowned and recognized across the globe for its effectiveness against dandruff.Ketoconazole, the key ingredient of Scalpe Plus formulation has proven efficacy against the root cause of dandruff – the Malassezia fungus. Ketoconazole attacks the fungus and eliminates it, providing long-lasting relief from dandruff and its associated problems. The conditioning base keeps your hair soft.Scalpe Plus has earned the position of doctor’s most prescribed^ anti-dandruff shampoo due to its effective formulation that gives relief from recurring dandruff.",
+            "hsn_code" : "30049029"
+        },
+        
+        {
+            "id" : 2,
+            "url_one":"https://www.netmeds.com/images/product-v1/600x600/828337/cetaphil_oily_skin_cleanser_125ml_0_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/600x600/828337/cetaphil_oily_skin_cleanser_125ml_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/600x600/828337/cetaphil_oily_skin_cleanser_125ml_0_0.jpg",
+            "prod_name":"Cetaphil Oily Skin Cleanser 125ml",
+            "mrp":545.00,
+            "best_price" : 479.60,
+            "mkt" : "Galderma India Pvt Ltd",
+            "discount":"UPTO 12% off",
+            "category_1":"Personal Care",
+            "category_2":"Face Personal Care",
+            "description":"Cetaphil Oily is an Expert Anti-Dandruff Shampoo with a proven track record in the treatment of dandruff related issues. It is based on the ketoconazole ZPTO formulation which is renowned and recognized across the globe for its effectiveness against dandruff.Ketoconazole, the key ingredient of Cetaphil Oily formulation has proven efficacy against the root cause of dandruff – the Malassezia fungus. Ketoconazole attacks the fungus and eliminates it, providing long-lasting relief from dandruff and its associated problems. The conditioning base keeps your hair soft. Cetaphil Oily has earned the position of doctor’s most prescribed^ anti-dandruff shampoo due to its effective formulation that gives relief from recurring dandruff.",
+            "hsn_code":"33049990"
+        },
+        
+        {
+        "id" : 3,
+        "url_one":"https://www.netmeds.com/images/product-v1/600x600/411868/lacto_calamine_oil_balance_for_oily_skin_lotion_120_ml_0_3.jpg",
+        "url_two":"https://www.netmeds.com/images/product-v1/600x600/411868/lacto_calamine_oil_balance_for_oily_skin_lotion_120_ml_1_3.jpg",
+        "url_three":"https://www.netmeds.com/images/product-v1/600x600/411868/lacto_calamine_oil_balance_for_oily_skin_lotion_120_ml_2_3.jpg",
+        "prod_name":"Lacto Calamine Oil Balance for Oily Skin Lotion 120 ml",
+        "mrp":240.00,
+        "best_price" : 212.64,
+        "mkt" : "Piramal Healthcare Ltd",
+        "discount":"UPTO 22% off",
+        "category_1":"Skin Care",
+        "category_2":"Face Skin Care",
+        "description":"Lacto Calamine is a water-based lotion with Kaolin clay which absorbs excess oil giving a clear matte look daily.",
+        "hsn_code":"33049991"
+        },
+
+        {
+            "id" : 4,
+            "url_one":"https://www.netmeds.com/images/product-v1/600x600/404896/indulekha_bringha_oil_100_ml_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/600x600/404896/indulekha_bringha_oil_100_ml_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/600x600/404896/indulekha_bringha_oil_100_ml_0.jpg",
+            "prod_name":"Indulekha Bringha Oil 100 ml",
+            "mrp":432.00,
+            "best_price" : 388.00,
+            "mkt" : "Hindustan Unilever Ltd",
+            "discount":"UPTO 10% off",
+            "category_1":"Hair",
+            "category_2":"Hair Care",
+            "description":"Indulekha Bringha Oil is a Oil with Kaolin clay which absorbs excess oil giving a clear matte look daily.",
+            "hsn_code":"30049011"
+        },
+
+        {
+            "id" : 5,
+            "url_one":"https://www.netmeds.com/images/product-v1/600x600/1029265/cgg_cosmetics_sunshield_serum_for_all_skin_types_50_ml_423209_0_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/600x600/1029265/cgg_cosmetics_sunshield_serum_for_all_skin_types_50_ml_423210_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/600x600/1029265/cgg_cosmetics_sunshield_serum_for_all_skin_types_50_ml_423211_2_0.jpg",
+            "prod_name":"CGG Cosmetics Sunshield Serum-For All Skin Types 50 ml",
+            "mrp":650.00,
+            "best_price" : 227.50,
+            "mkt" : "West Coast Pharmaceuticals Works Ltd.",
+            "discount":"UPTO 62% off",
+            "category_1":"Skin Care",
+            "category_2":"Toners & Serums",
+            "description":"It is a water-based lotion with Kaolin clay which absorbs excess oil giving a clear matte look daily.",
+            "hsn_code":"30049011"
+        },
+        
+        {
+            "id" : 6,
+            "url_one":"https://www.netmeds.com/images/product-v1/600x600/390287/galact_granules_200gm_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/150x150/390287/galact_granules_200gm_1.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/150x150/390287/galact_granules_200gm_1.jpg",
+            "prod_name":"Galact Granules - Elaichi Flavour 200gm",
+            "mrp":421.00,
+            "best_price" : 378.90,
+            "mkt" : "Emcure Pharmaceuticals Ltd",
+            "discount":"UPTO 10% off",
+            "category_1":"Ayush",
+            "category_2":"Ayurvedic",
+            "description":"Galact granules is an ayurvedic proprietary medicine that brings in the goodness of natural ingredients like shatavari and safed jeera in specialized formulation that helps lactating mothers. It also helps generate and increases the milk production during breast-feeding.",
+            "hsn_code":"30049011"
+        },
+        
+        {
+            "id" : 7,
+            "url_one":"https://www.netmeds.com/images/product-v1/600x600/15921/dabur_shilajit_gold_capsule_10s_0_1.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/600x600/15921/dabur_shilajit_gold_capsule_10s_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/600x600/15921/dabur_shilajit_gold_capsule_10s_3_0.jpg",
+            "prod_name":"Dabur Shilajit Gold Capsule 10's",
+            "mrp":275.00,
+            "best_price" : 247.50,
+            "mkt" : "Dabur India Ltd",
+            "discount":"UPTO 12% off",
+            "category_1":"Ayush",
+            "category_2":"Ayurvedic",
+            "description":"Shilajit is needed to improve resilience and maintain robust health. Brings about balanced and harmonious health. It acts as a restorative tonic, helps in recovery of wear and tear of body tissues, helps to improve strength, stamina, vigor & vitality.",
+            "hsn_code":"30049011"
+        },
+        
+        {
+            "id" : 8,
+            "url_one":"https://www.netmeds.com/images/product-v1/600x600/341494/liv_52_tablet_100_s_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/600x600/341494/liv_52_tablet_100_s_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/600x600/341494/liv_52_tablet_100_s_0.jpg",
+            "prod_name":"Himalaya Liv.52 Tablet 100's",
+            "mrp":130.00,
+            "best_price" : 101.40,
+            "mkt" : "The Himalaya Drug Company",
+            "discount":"UPTO 10% off",
+            "category_1":"Ayush",
+            "category_2":"Ayurvedic",
+            "description":"LIV 52 is unparalleled in liver care.The key ingredients Chicory (Kasani) protects the liver against alcohol toxicity. It is also a potent antioxidant, which can be seen by its free radical scavenging property and has hepatoprotective property.",
+            "hsn_code":"30049011"
+        },
+        
+        {
+            "id" : 9,
+            "url_one":"https://www.netmeds.com/images/product-v1/600x600/413011/pankajakasthuri_orthoherb_tablet_60_s_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/600x600/413011/pankajakasthuri_orthoherb_tablet_60_s_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/600x600/413011/pankajakasthuri_orthoherb_tablet_60_s_0.jpg",
+            "prod_name":"Pankajakasthuri Orthoherb Tablet 60's",
+            "mrp":300.00,
+            "best_price" : 246.00,
+            "mkt" : "Pankajakasthuri Herbals India Pvt Ltd",
+            "discount":"UPTO 22% off",
+            "category_1":"Ayush",
+            "category_2":"Ayurvedic",
+            "description":"Orthoherb is a unique formula containing 23 herbs. Continued use will arrest bone damage and strengthen cartilages. The uniquely formulated Orthoherb is 100% natural and gives relief from back pain, knee pain and all types of inflammatory joint conditions.",
+            "hsn_code":"30049011"
+        },
+        
+        {
+            "id" : 10,
+            "url_one":"https://www.netmeds.com/images/product-v1/600x600/915649/accusure_pulse_oximeter_0_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/600x600/915649/accusure_pulse_oximeter_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/600x600/915649/accusure_pulse_oximeter_2_0.jpg",
+            "prod_name":"AccuSure Pulse Oximeter",
+            "mrp":3999.00,
+            "best_price" : 999.75,
+            "mkt" : "Microgene Diagnostic Systems Pvt Ltd",
+            "discount":"UPTO 75% off",
+            "category_1":"Devices",
+            "category_2":"Measurements",
+            "description":"It is a unique formula containing 23 herbs. Continued use will arrest bone damage and strengthen cartilages. The uniquely formulated Orthoherb is 100% natural and gives relief from back pain, knee pain and all types of inflammatory joint conditions.",
+            "hsn_code":"90211000"
+        }
+    ],
+
+    "Brand_days":[
+        {
+            "id" : 1,
+            "url_one":"https://www.netmeds.com/images/product-v1/600x600/1009724/pcare_knee_sleeve_with_stays_neoprene_c3004_xl_0_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/150x150/1009724/pcare_knee_sleeve_with_stays_neoprene_c3004_xl_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/150x150/1009724/pcare_knee_sleeve_with_stays_neoprene_c3004_xl_2_0.jpg",
+            "prod_name" : "P+caRe Knee Sleeve with Stays Neoprene (C3004) (XL)",
+            "mrp" : 999.00,
+            "best_price" : 579.42,
+            "mkt" : "PR Flexmake Private Limited",
+            "discount" : "UPTO 10% off",
+            "catogery_1" : "Devices",
+            "category_2": "Orthopaedics",
+            "description" : "The contents of this website are for informational purposes only and not intended to be a substitute for professional medical advice, diagnosis, or treatment. Please seek the advice of a physician or other qualified health provider with any questions you may have regarding a medical condition.",
+            "hsn_code" : "30049029"
+        },
+
+        {
+            "id" : 2,
+            "url_one":"https://www.netmeds.com/images/product-v1/600x600/1008641/pcare_arm_shoulder_wrap_brace_b2008_std_0_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/150x150/1008641/pcare_arm_shoulder_wrap_brace_b2008_std_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/150x150/1008641/pcare_arm_shoulder_wrap_brace_b2008_std_2_0.jpg",
+            "prod_name" : "P+caRe Arm Shoulder Wrap Brace (B2008) (STD)",
+            "mrp" : 915.00,
+            "best_price" : 579.42,
+            "mkt" : " PR Flexmake Private Limited",
+            "discount" : "UPTO 42% off",
+            "catogery_1" : "Devices",
+            "category_2": "Orthopaedics",
+            "description" : "Scalpe Plus has earned the position of doctor’s most prescribed^ anti-dandruff shampoo due to its effective formulation that gives relief from recurring dandruff.",
+            "hsn_code" : "30049029"
+        },
+
+        {
+            "id" : 3,
+            "url_one":"https://www.netmeds.com/images/product-v1/150x150/1008374/pcare_taylor_brace_a1018_m_2_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/150x150/1008374/pcare_taylor_brace_a1018_m_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/150x150/1008374/pcare_taylor_brace_a1018_m_1_0.jpg",
+            "prod_name" : "P+caRe Taylor Brace (A1018) (M)",
+            "mrp" : 1699.00,
+            "best_price" : 985.42,
+            "mkt" : " PR Flexmake Private Limited",
+            "discount" : "UPTO 42% off",
+            "catogery_1" : "Devices",
+            "category_2": "Orthopaedics",
+            "description" : "Scalpe Plus has earned the position of doctor’s most prescribed^ anti-dandruff shampoo due to its effective formulation that gives relief from recurring dandruff.",
+            "hsn_code" : "30049029"
+        },
+
+
+        {
+            "id" : 4,
+            "url_one":"https://www.netmeds.com/images/product-v1/150x150/1008611/pcare_posture_back_support_brace_a1020_m_0_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/150x150/1008611/pcare_posture_back_support_brace_a1020_m_4_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/150x150/1008611/pcare_posture_back_support_brace_a1020_m_0_0.jpg",
+            "prod_name" : "P+caRe Posture Back Support Brace (A1020) (M",
+            "mrp" : 799.00,
+            "best_price" : 463.42,
+            "mkt" : " PR Flexmake Private Limited",
+            "discount" : "UPTO 42% off",
+            "catogery_1" : "Devices",
+            "category_2": "Orthopaedics",
+            "description" : "Scalpe Plus has earned the position of doctor’s most prescribed^ anti-dandruff shampoo due to its effective formulation that gives relief from recurring dandruff.",
+            "hsn_code" : "30049029"
+        },
+
+        {
+            "id" : 5,
+            "url_one":"https://www.netmeds.com/images/product-v1/150x150/1009738/pcare_knee_support_with_stays_neoprene_c3007_l_0_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/150x150/1009738/pcare_knee_support_with_stays_neoprene_c3007_l_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/600x600/362506/scalpe_plus_anti_dandruff_shampoo_75_ml_2_0.jpg",
+            "prod_name" : "P+caRe Knee Support with Stays Neoprene (C3007) (L)",
+            "mrp" : 1992.00,
+            "best_price" : 1043.12,
+            "mkt" : " PR Flexmake Private Limited",
+            "discount" : "UPTO 42% off",
+            "catogery_1" : "Devices",
+            "category_2": "Orthopaedics",
+            "description" : "Scalpe Plus has earned the position of doctor’s most prescribed^ anti-dandruff shampoo due to its effective formulation that gives relief from recurring dandruff.",
+            "hsn_code" : "30049029"
+        },
+
+        {
+            "id" : 6,
+            "url_one":"https://www.netmeds.com/images/product-v1/150x150/1010289/pcare_cast_shoes_c3027_m_0_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/150x150/1010289/pcare_cast_shoes_c3027_m_2_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/150x150/1010289/pcare_cast_shoes_c3027_m_2_0.jpg",
+            "prod_name" : "P+caRe Cast Shoes (C3027) (M)",
+            "mrp" : 779.00,
+            "best_price" : 347.82,
+            "mkt" : " PR Flexmake Private Limited",
+            "discount" : "UPTO 42% off",
+            "catogery_1" : "Devices",
+            "category_2": "Orthopaedics",
+            "description" : "Scalpe Plus has earned the position of doctor’s most prescribed^ anti-dandruff shampoo due to its effective formulation that gives relief from recurring dandruff.",
+            "hsn_code" : "30049029"
+        },
+
+        {
+            "id" : 7,
+            "url_one":"https://www.netmeds.com/images/product-v1/150x150/1009042/pcare_varicose_vein_stockings_c3003_xxl_1_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/150x150/1009042/pcare_varicose_vein_stockings_c3003_xxl_4_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/150x150/1009042/pcare_varicose_vein_stockings_c3003_xxl_0_0.jpg",
+            "prod_name" : "P+caRe Varicose Vein Stockings (C3003) (XXL)",
+            "mrp" : 879.00,
+            "best_price" : 509.82,
+            "mkt" : " PR Flexmake Private Limited",
+            "discount" : "UPTO 42% off",
+            "catogery_1" : "Devices",
+            "category_2": "Orthopaedics",
+            "description" : "Scalpe Plus has earned the position of doctor’s most prescribed^ anti-dandruff shampoo due to its effective formulation that gives relief from recurring dandruff.",
+            "hsn_code" : "30049029"
+        },
+
+        {
+            "id" : 8,
+            "url_one":"https://www.netmeds.com/images/product-v1/150x150/1010100/pcare_padded_plantar_fasciitis_night_splint_c3018_std_0_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/150x150/1010100/pcare_padded_plantar_fasciitis_night_splint_c3018_std_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/150x150/1010100/pcare_padded_plantar_fasciitis_night_splint_c3018_std_1_0.jpg",
+            "prod_name" : "P+caRe Padded Plantar Fasciitis Night Splint (C3018) (STD)",
+            "mrp" : 1499.00,
+            "best_price" : 869.42,
+            "mkt" : " PR Flexmake Private Limited",
+            "discount" : "UPTO 42% off",
+            "catogery_1" : "Devices",
+            "category_2": "Orthopaedics",
+            "description" : "Scalpe Plus has earned the position of doctor’s most prescribed^ anti-dandruff shampoo due to its effective formulation that gives relief from recurring dandruff.",
+            "hsn_code" : "30049029"
+        },
+
+
+        {
+           
+            "id" : 9,
+            "url_one":"https://www.netmeds.com/images/product-v1/150x150/1008647/pcare_thumb_spica_brace_b2010_un_0_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/150x150/1008647/pcare_thumb_spica_brace_b2010_un_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/150x150/1008647/pcare_thumb_spica_brace_b2010_un_2_0.jpg",
+            "prod_name" : "P+caRe Thumb Spica Brace (B2010) (UN)",
+            "mrp" : 299.00,
+            "best_price" : 173.42,
+            "mkt" : " PR Flexmake Private Limited",
+            "discount" : "UPTO 42% off",
+            "catogery_1" : "Devices",
+            "category_2": "Orthopaedics",
+            "description" : "Scalpe Plus has earned the position of doctor’s most prescribed^ anti-dandruff shampoo due to its effective formulation that gives relief from recurring dandruff.",
+            "hsn_code" : "30049029"
+        },
+
+        {
+            "id" : 10,
+            "url_one":"https://www.netmeds.com/images/product-v1/150x150/1010288/pcare_cast_shoes_c3027_s_0_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/150x150/1010288/pcare_cast_shoes_c3027_s_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/150x150/1010288/pcare_cast_shoes_c3027_s_1_0.jpg",
+            "prod_name" : "P+caRe Cast Shoes (C3027) (S)",
+            "mrp" : 559.00,
+            "best_price" : 324.22,
+            "mkt" : " PR Flexmake Private Limited",
+            "discount" : "UPTO 42% off",
+            "catogery_1" : "Devices",
+            "category_2": "Orthopaedics",
+            "description" : "Scalpe Plus has earned the position of doctor’s most prescribed^ anti-dandruff shampoo due to its effective formulation that gives relief from recurring dandruff.",
+            "hsn_code" : "30049029"
+        }
+
+
+    ]
+    
+}
