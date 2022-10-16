@@ -229,9 +229,15 @@
 
         {
             "id" : 5,
+<<<<<<< HEAD
             "url_1":"https://www.netmeds.com/images/product-v1/150x150/1009738/pcare_knee_support_with_stays_neoprene_c3007_l_0_0.jpg",
             "url_2":"https://www.netmeds.com/images/product-v1/150x150/1009738/pcare_knee_support_with_stays_neoprene_c3007_l_1_0.jpg",
             "url_3":"https://www.netmeds.com/images/product-v1/600x600/362506/scalpe_plus_anti_dandruff_shampoo_75_ml_2_0.jpg",
+=======
+            "url_one":"https://www.netmeds.com/images/product-v1/150x150/1009738/pcare_knee_support_with_stays_neoprene_c3007_l_0_0.jpg",
+            "url_two":"https://www.netmeds.com/images/product-v1/150x150/1009738/pcare_knee_support_with_stays_neoprene_c3007_l_1_0.jpg",
+            "url_three":"https://www.netmeds.com/images/product-v1/150x150/1009738/pcare_knee_support_with_stays_neoprene_c3007_l_1_0.jpg",
+>>>>>>> 117e79f554cbf87cdcd471c711b1f78e198c52a3
             "prod_name" : "P+caRe Knee Support with Stays Neoprene (C3007) (L)",
             "mrp" : 1992.00,
             "best_price" : 1043.12,
